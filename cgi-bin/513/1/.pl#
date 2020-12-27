@@ -1,0 +1,14 @@
+
+print ( "Content-type: text/html\n\n" );
+
+print<<ENDofHTML;
+<h1>Saroj </h1>
+ENDofHTML
+
+
+
+
+
+
+
+
